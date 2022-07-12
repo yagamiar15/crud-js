@@ -1,3 +1,10 @@
+#Crud en JS
+
+
+Práctica de CRUD en Javascript, que pasa por los primeros métodos usados hasta los mas modernos y efectivos.
+
+Abajo se encuentran comandos útiles para probar el proyecto
+
 ```js
 json-server --watch db.json
 ```
