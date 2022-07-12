@@ -13,4 +13,6 @@ json-server --watch db.json
 
 Uso de Browser-sync:
 
-```browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html```
+```js
+browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
+```
