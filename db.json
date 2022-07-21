@@ -4,6 +4,21 @@
       "nombre": "Dario Pacheco",
       "email": "dario.pacheco@email.com",
       "id": 1
+    },
+    {
+      "nombre": "pedro",
+      "email": "pedro@laura.com",
+      "id": "71eb6dbe-13fe-4ffe-bc9f-e01e48723eda"
+    },
+    {
+      "nombre": "Homero Thompson",
+      "email": "homerothompson@fakemail.com",
+      "id": "8ab70ea8-1694-4dc5-8f90-3b37d2acd1d4"
+    },
+    {
+      "nombre": "miriam",
+      "email": "mirian@alura.com",
+      "id": "54cceaff-4235-4d43-a3fe-b4227a92b2d0"
     }
   ]
 }
