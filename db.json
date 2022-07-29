@@ -1,24 +1,19 @@
 {
   "perfil": [
     {
-      "nombre": "Dario Pacheco",
-      "email": "dario.pacheco@email.com",
-      "id": 1
-    },
-    {
-      "nombre": "pedro",
-      "email": "pedro@laura.com",
-      "id": "71eb6dbe-13fe-4ffe-bc9f-e01e48723eda"
-    },
-    {
       "nombre": "Homero Thompson",
       "email": "homerothompson@fakemail.com",
-      "id": "8ab70ea8-1694-4dc5-8f90-3b37d2acd1d4"
+      "id": "0fb60146-3fb6-45a1-858a-0b6a06b687b2"
     },
     {
-      "nombre": "miriam",
-      "email": "mirian@alura.com",
-      "id": "54cceaff-4235-4d43-a3fe-b4227a92b2d0"
+      "nombre": "Dario Exequiel",
+      "email": "dario@dario",
+      "id": "a9821361-4036-431e-bd3e-b705829c7e18"
+    },
+    {
+      "nombre": "capocomico",
+      "email": "asd34",
+      "id": "afe4f3ce-ad5f-4319-bf88-0f562fb95f99"
     }
   ]
 }

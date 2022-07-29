@@ -1,7 +1,8 @@
-# Crud en JS
+# CRUD en JS
 
 
-Práctica de CRUD en Javascript, que pasa por los primeros métodos usados hasta los mas modernos y efectivos.
+Práctica de CRUD en Javascript, uso de fetch, creación, modificación y eliminación de registro de clientes de forma dinámica en un server virtual.
+Además se emplea JS de forma asíncrona.
 
 Abajo se encuentran comandos útiles para probar el proyecto:
 
